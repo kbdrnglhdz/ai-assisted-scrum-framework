@@ -2,8 +2,6 @@
 
 # Sesión 2: Refinamiento y Planificación
 ## El Fin del "Clic-Clic" en Jira
-**Duración:** 2 Horas
-**Facilitador:** Antigravity (Tu Scrum Master AI)
 
 ---
 # El Cuello de Botella del Refinamiento
